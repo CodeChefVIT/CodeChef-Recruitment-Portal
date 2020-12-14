@@ -13,7 +13,7 @@
     "hbs": "^4.1.1",
     "lodash": "^4.17.20",
     "mongodb": "^3.2.5",
-    "mongoose": "^5.7.14",
+    "mongoose": "^5.11.7",
     "particlesjs": "^2.2.3",
     "path": "^0.12.7",
     "request": "^2.88.0",
